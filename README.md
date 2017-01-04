@@ -1,3 +1,3 @@
 Code is in
 
-/app/src/androidTest/java/com/huat/heighttoshoesizecalculator
+/app/src/main/java/com/huat/heighttoshoesizecalculator
