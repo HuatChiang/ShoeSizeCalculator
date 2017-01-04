@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Height to shoe size calculator</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Calc">Calculate</string>
+    <string name="Gender">Gender</string>
+    <string name="Female">Female</string>
+    <string name="EnterHeight">Enter your height</string>
+    <string name="Male">Male</string>
+    <string name="banner_ad_unit_id">ca-app-pub-9617617901018660/2337507839</string>
+</resources>
